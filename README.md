@@ -7,6 +7,7 @@ and session statistics.
 ![Threat Map in Hermes Desktop](assets/screenshot-overview.webp)
 
 Unofficial community plugin; not affiliated with or endorsed by Check Point Software Technologies.
+**For personal, non-commercial use only** (see [Data source](#data-source)).
 
 ## What you get
 

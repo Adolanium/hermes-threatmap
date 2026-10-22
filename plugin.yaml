@@ -1,0 +1,12 @@
+name: hermes-threatmap
+version: "0.1.0"
+description: "A live cyber threat map page for Hermes Desktop: a dithered 3D globe of attacks reported by Check Point's public threat map feed, with filters, country drill-downs and a clearly labelled demo mode. Unofficial; not affiliated with Check Point."
+author: Adolanium
+license: MIT
+homepage: https://github.com/Adolanium/hermes-threatmap
+manifest_version: 1
+kind: standalone
+requires_hermes: ">=0.22.2"
+provides_tools: []
+provides_hooks: []
+requires_env: []

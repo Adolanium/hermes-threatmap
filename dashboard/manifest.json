@@ -1,0 +1,9 @@
+{
+  "name": "hermes-threatmap",
+  "label": "Threat Map",
+  "version": "0.1.0",
+  "description": "Live feed relay for the Hermes Threat Map Desktop page.",
+  "tab": { "hidden": true },
+  "entry": "index.js",
+  "api": "plugin_api.py"
+}
